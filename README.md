@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey👋 Myself Ankur Pratap Singh</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm ... from Uttar pradesh , India<br><br>- 🔭 I’m completing my B.Tech in A.I/ML<br>- 📚 I'm currently learning core python libraries<br>- ⚡ In my free time I am doing editing or learning generative LLMs to make my self productive</p>
+<p align="left">I'm ... from Uttar pradesh , India<br><br>- 🔭 I’m completing my B.Tech in A.I/ML from Invertis University<br>- 📚 I'm currently learning core python libraries<br>- ⚡ In my free time I am doing editing or learning generative LLMs to make my self productive</p>
 
 ###
 
