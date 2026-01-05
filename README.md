@@ -41,12 +41,12 @@
 <p align="left">I'm ... from Uttar pradesh , India<br><br>- 🔭 I’m completing my B.Tech in A.I/ML from Invertis University<br>- 📚 I'm currently learning core python libraries<br>- ⚡ In my free time I am doing editing or learning generative LLMs to make my self productive</p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>\
-
+check out my first badge on badgefactory - https://openbadgefactory.com/obv3/credentials/f9dbf67f5c07a7ef3cb9ca93b70c04619b4402d4
 
 ###
-check out my first badge on badgefactory - https://openbadgefactory.com/obv3/credentials/f9dbf67f5c07a7ef3cb9ca93b70c04619b4402d4
+
+<h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
