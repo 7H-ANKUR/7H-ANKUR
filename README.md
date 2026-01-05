@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  https://openbadgefactory.com/obv3/credentials/f9dbf67f5c07a7ef3cb9ca93b70c04619b4402d4
+  
 </div>
 
 ###
