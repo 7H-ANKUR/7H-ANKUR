@@ -80,7 +80,3 @@ check out my first badge on badgefactory - https://openbadgefactory.com/obv3/cre
 </div>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=7H-ANKUR&theme=default&show_icons=true&hide_border=true&count_private=true" alt="7H-ANKUR's GitHub Stats" />
-
-
