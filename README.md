@@ -78,3 +78,9 @@ check out my first badge on badgefactory - https://openbadgefactory.com/obv3/cre
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=7H-ANKUR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=7H-ANKUR&theme=default&show_icons=true&hide_border=true&count_private=true" alt="7H-ANKUR's GitHub Stats" />
+
+
