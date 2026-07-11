@@ -182,7 +182,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/being.aps360" target="_blank">
+  <a href="https://www.instagram.com/being.aps15" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" title="Instagram"/>
   </a>
   &nbsp;
@@ -190,7 +190,7 @@
     <img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord"/>
   </a>
   &nbsp;
-  <a href="https://x.com/iamankur360" target="_blank">
+  <a href="https://x.com/iamankur17" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" title="Twitter/X"/>
   </a>
   &nbsp;
