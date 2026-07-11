@@ -67,8 +67,8 @@
 - 🥇 **Inverthon 2.0 Winner** — Deployed end-to-end AI solution under hackathon constraints
 - 🎖️ **AWS Educate: Getting Started with Serverless** (Amazon Web Services, 2023)
 - 🏅 **First Badge on BadgeFactory** → [View Credential](https://openbadgefactory.com/obv3/credentials/f9dbf67f5c07a7ef3cb9ca93b70c04619b4402d4)
-- 🏥 Built **[MedLife](https://github.com/7H-ANKUR)** — Healthcare AI platform with 7-language symptom mapping
-- 🌾 Built **[FasalAI](https://github.com/7H-ANKUR)** — Crop advisory system for Smart India Hackathon (SIH25010)
+- 🏥 Built **[MedLife](https://med-life-1.onrender.com/)** — Healthcare AI platform with 7-language symptom mapping
+- 🌾 Built **[FasalAI](https://crop-advisory-sih-25010-uylq.vercel.app/landing)** — Crop advisory system for Smart India Hackathon (SIH25010)
 - 📈 Built **Tata Motors Sales Intelligence** — XGBoost forecasting dashboard (R²=0.9953)
 - 🏏 Built **IPL Playing XI Predictor** — Strategy-aware selection engine (2008–2025 stats)
 - ⚡ Built **Serverless Task Manager API** — AWS Lambda + S3 + API Gateway, near-zero infra cost
