@@ -93,59 +93,62 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding:10px">
-        <h3>🐍 ML & Data Science</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="Scikit-learn"/>
-      </td>
-      <td style="padding:10px">
-        <h3>🗄️ Databases</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px">
-        <h3>🌐 Web & Backend</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
-      </td>
-      <td style="padding:10px">
-        <h3>☁️ Cloud & Tools</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>
-        <img width="8"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" title="Canva"/>
-      </td>
-    </tr>
-  </table>
+### 🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,js,bash,html,css&perline=12" />
+
+---
+
+### 🤖 ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=12" />
+
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" title="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" title="Matplotlib"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" title="Scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/xgboost/189AD3" height="45" title="XGBoost"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" title="Streamlit"/>
+</div>
+
+---
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,vite,flask,fastapi,nodejs,html,css&perline=12" />
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=12" />
+
+---
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,arduino,docker&perline=12" />
+
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" title="Canva"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" title="Postman"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" title="Jupyter"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="45" title="Google Colab"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="45" title="VS Code"/>
 </div>
 
 <br>
