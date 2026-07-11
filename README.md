@@ -96,16 +96,15 @@ I'm a Data Science & AI/ML student from Uttar Pradesh, India 🇮🇳<br><br>
 
 <div align="center">
 
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=7H-ANKUR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
+<!-- Streak stats — demolab -->
+<img src="https://streak-stats.demolab.com/?user=7H-ANKUR&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub streak stats" />
 
 <br><br>
 
-<!-- GitHub stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=7H-ANKUR&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+<!-- GitHub stats + top languages via github-profile-summary-cards (more reliable than vercel.app) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7H-ANKUR&theme=github_dark" height="180" alt="GitHub stats" />
 &nbsp;
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7H-ANKUR&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7H-ANKUR&theme=github_dark&exclude=jupyter%20notebook" height="180" alt="Top languages" />
 
 <br><br>
 
