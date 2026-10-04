@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><strong>
-  🤖 ML Engineer · Data Science Student · Inverthon 2.0 Winner 🏆
+  🤖 ML Engineer · Data Science Student · Inverthon 2.0 (College Hackathon)Winner 🏆
 </strong></p>
 
 <p align="center">
